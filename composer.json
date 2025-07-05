@@ -1,0 +1,17 @@
+{
+    "name": "root/aptic-hr",
+    "autoload": {
+        "psr-4": {
+            "Root\\ApticHr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wacherakelvin",
+            "email": "kellyviny605@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}

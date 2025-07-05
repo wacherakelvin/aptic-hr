@@ -1,0 +1,7 @@
+vendor/
+uploads/
+*.log
+*.env
+*.zip
+*.tar.gz
+node_modules/
